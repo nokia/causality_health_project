@@ -48,3 +48,11 @@ for sharing his expertise for the project.
 
 Feel free to contribute to the repository and create a pull request if you prefer to have an extension of the methods applied to healthcare data.
 
+# License 
+
+Copyright 2021 Nokia
+
+Licensed under the BSD 3-Clause License
+
+SPDX-License-Identifier: BSD-3-Clause
+
