@@ -27,3 +27,14 @@ Subj_mixed <- data.frame(Subj_mixed)
 g1 <- MXM::pc.skel(Subj_mixed, method = "comb.mm", alpha = 0.01) ## skeleton
 g1 <- MXM::pc.or(g1)$G ## orientation rules
 MXM::plotnetwork(g1)
+
+
+
+##### license 
+
+## Copyright 2021 Nokia
+
+## Licensed under the BSD 3-Clause License
+
+## SPDX-License-Identifier: BSD-3-Clause
+
