@@ -354,3 +354,12 @@ write_csv = robjects.r('write.csv')
 ## save 
 
 write_csv(Subj,'ExportedS6.csv')
+
+
+## license 
+
+## Copyright 2021 Nokia
+
+## Licensed under the BSD 3-Clause License
+
+## SPDX-License-Identifier: BSD-3-Clause
