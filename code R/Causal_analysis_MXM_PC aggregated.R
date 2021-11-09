@@ -39,4 +39,11 @@ MXM::plotnetwork(g1)
 # MXM::plotnetwork(g2) #This also makes a cyclic graph
 
 
+##### license 
+
+## Copyright 2021 Nokia
+
+## Licensed under the BSD 3-Clause License
+
+## SPDX-License-Identifier: BSD-3-Clause
 
