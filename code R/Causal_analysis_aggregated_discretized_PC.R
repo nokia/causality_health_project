@@ -80,3 +80,14 @@ pc_data <- pc(suff_stat, indepTest = disCItest,
 png("Aggregated_discretized_dicsCI.png",width=3.25,height=3.25,units="in",res=1200)
 plot(pc_data, main = "")
 dev.off()
+
+
+
+##### license 
+
+## Copyright 2021 Nokia
+
+## Licensed under the BSD 3-Clause License
+
+## SPDX-License-Identifier: BSD-3-Clause
+
